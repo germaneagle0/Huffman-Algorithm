@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "62f3b277-45af-4fba-b3b5-c0ca35d19900": {
+      "ProjectGuid": "62f3b277-45af-4fba-b3b5-c0ca35d19900",
+      "DisplayName": "Huffman",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
